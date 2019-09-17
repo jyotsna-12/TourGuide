@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+    <string name="Location">Location</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hotel_court_name">hotel</string>
+    <string name="hotel_court_addr">hotel</string>
+    <string name="LocationName">Location Name</string>
+    <string name="IndiaGate">INDIA GATE</string>
+    <string name="indiaLocation">Rajpath, India Gate, New Delhi, Delhi 110001</string>
+    <string name="jantarmantar">JANTAR MANTAR</string>
+    <string name="jantarLocation">Sansad Marg, Connaught Place, New Delhi, Delhi 110001</string>
+    <string name="redfort">RED FORT</string>
+    <string name="redFortLocation">Netaji Subhash Marg, Lal Qila, Chandni Chowk, New Delhi, Delhi 110006</string>
+    <string name="hotelPiccadily">PICCADILY</string>
+    <string name="PicadilyLocation">Centre Complex, Janakpuri District Center, Janakpuri, New Delhi, Delhi 110058</string>
+    <string name="radisson">RADDISON BLU</string>
+    <string name="radissonAddress">G-59, Connaught Circus, Block G, Connaught Place, New Delhi, Delhi 110001</string>
+    <string name="palika">PALIKA MARKET</string>
+    <string name="palikaLocation">Connaught Place, New Delhi, Delhi 110001</string>
+    <string name="saroj">SAROJ MARKET</string>
+    <string name="sarojLocation">Sarojini Nagar, New Delhi, Delhi 110023</string>
+    <string name="event">Celebrate christmas at Pacific mall with your children</string>
+    <string name="date">Date - December 14,21,25,28,31</string>
+    <string name="hotels">HOTELS</string>
+    <string name="EVENTS">EVENTS</string>
+    <string name="history">HISTORIC LOCATIONS</string>
+    <string name="markets">MARKETS</string>
+</resources>
